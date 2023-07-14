@@ -2,6 +2,10 @@
 
 This is a simple implementation of the BlackJack game using HTML, CSS, and JavaScript.
 
+<div>
+  <img src="https://github.com/abel-cosmic/BlackJack/blob/main/screenshot.png" width=100%/>
+</div>
+
 ## Instructions
 
 1. Open the `index.html` file in a web browser.
